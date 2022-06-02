@@ -1,0 +1,32 @@
+President, Alan Smith
+President, Jon Adams
+President, Lizzy Jones
+President, Zia Ahmed
+Officer, Penelope Dominguez
+Officer, Hamza Hooper
+Officer, Virginia Pike
+Officer, Kirsty Lugo
+Faculty Liberal Arts and Sciences, Brianna Noel
+Faculty Liberal Arts and Sciences, Brandon Briggs
+Faculty Liberal Arts and Sciences, Solomon Cross
+Faculty Liberal Arts and Sciences, Ruby Clay
+Faculty Liberal Arts and Sciences, Matteo West
+Faculty Liberal Arts and Sciences, Zayn Gray
+Faculty Business, Jasmine Edwards
+Faculty Business, Finn Cameron
+Faculty Business, Alyssia Read
+Faculty Business, Hailey Shields
+Faculty Business, Josh Christian
+Faculty Business, Jordyn Boyer
+Faculty Education and Health, Manuel Hobbs
+Faculty Education and Health, Grayson Best
+Faculty Education and Health, Waseem Parson
+Faculty Education and Health, Madeline Sparrow
+Faculty Education and Health, Casey Reese
+Faculty Education and Health, Mike Warner
+Faculty Education and Health, Jaden Chang 
+Faculty Engineering and Science, Cristina Long
+Faculty Engineering and Science, Anastasia Hills
+Faculty Engineering and Science, Gracie Fritz
+Faculty Engineering and Science, Chester Kennedy
+Faculty Engineering and Science, Darius Mayer
